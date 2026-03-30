@@ -146,4 +146,3 @@ if f_mkt and access_code == "ZMS2024":
                 st.dataframe(m_comp, use_container_width=True, hide_index=True)
 else:
     st.title("📊 Marketplace Marketing Intelligence")
-    st.info("👈 Please enter the Access Code and upload your ZMS CSV file in the sidebar to begin.")
